@@ -3,7 +3,7 @@ This repository maintains the tools for typesetting and
 making available the *Unix Programmer's Manual*
 (Third Edition, February 1973).
 The generated typeset manual is made available
-[in PDF form](https://dspinellis.github.io/unix-v3man/v4man.pdf).
+[in PDF form](https://dspinellis.github.io/unix-v3man/v3man.pdf).
 
 The manual pages and tools are derived from 1973 material unearthed
 by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), and
