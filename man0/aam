@@ -24,7 +24,7 @@
 .\" Numbered page footer
 .de fo                \" Page footer
 '  sp 1v
-.  tl ''%''
+.  tl ''- % -''
 '  bp
 ..
 .
