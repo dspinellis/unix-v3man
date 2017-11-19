@@ -1,0 +1,32 @@
+.na
+.hc 
+.in 16
+.fo ''- % -''
+
+
+.
+.\" Header trap to display the header
+.de hD
+'  sp .5i
+. tl \\*(ht
+'  sp .3i
+..
+.\" Header macro used within the manual pages; setup and display
+.de he
+. ds ht \\$*
+. tl \\*(ht
+'  sp .3i
+..
+.
+.\" Install header trap
+.wh 0 hD
+
+.\" Numbered page footer
+.de fo                \" Page footer
+'  sp 1v
+.  tl ''%''
+'  bp
+..
+.
+.\" Install footer trap
+.wh -1i fo            \" trap one inch from bottom
