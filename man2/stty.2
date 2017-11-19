@@ -63,25 +63,25 @@ are used to indicate that the terminal is an IBM|2741
 and to specify 2741 modes.
 These mode bits are:
 .sp
-.in+8
-.ll+6
-.ti-6
+.in +8
+.ll +6
+.ti -6
 |400  terminal is an IBM|2741
-.ti-6
+.ti -6
 1000  the 2741 has the transmit interrupt feature (currently ignored)
-.ti-6
+.ti -6
 2000  use correspondence code conversion on output
-.ti-6
+.ti -6
 4000  use correspondence code conversion on input (currently ignored)
 .sp
 .in -8
-.ll-6
+.ll -6
 Normal input and output code conversion
 for 2741s is EBCDIC (e. g. 963 ball and corresponding keyboard).
 The presence of the transmit interrupt feature permits
 the system to do read-ahead while no output is in progress.
 In 2741 mode, the low order bits 331 are ignored.
-.ti0
+.ti 0
 .sp
 SEE ALSO	stty(I), gtty(II)
 .sp
