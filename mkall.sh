@@ -25,4 +25,4 @@ psnroff()
   done
 } |
 # Convert all the Postscript output into PDF
-gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -sOutputFile=v3man.pdf -
+gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -sOutputFile=v3man.pdf - pdfmarks
