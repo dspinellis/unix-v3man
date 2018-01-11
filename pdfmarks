@@ -1,4 +1,4 @@
-[ /Title (UNIX PROGRAMMER's MANUAL: Third Edition)
+[ /Title (UNIX Programmer's Manual: Third Edition)
   /Author (K. Thompson and D. M. Ritchie)
   /Subject (UNIX)
   /Keywords (Unix, operating system)
@@ -9,8 +9,10 @@
   /DOCINFO pdfmark
 
 [ /Page 2 /Title (Preface to the Third Edition) /View [/XYZ null null 0] /OUT pdfmark
-[ /Page 3 /Title (Introduction to this Manual) /View [/XYZ null null 0] /OUT pdfmark
-[ /Page 13 /Title (Table of Contents) /View [/XYZ null null 0] /OUT pdfmark
+[ /Page 3 /Title (Introduction to this manual) /View [/XYZ null null 0] /OUT pdfmark
+[ /Page 7 /Title (How to get started) /View [/XYZ null null 0] /OUT pdfmark
+[ /Page 13 /Title (Table of contents) /View [/XYZ null null 0] /OUT pdfmark
+[ /Page 18 /Title (Index) /View [/XYZ null null 0] /OUT pdfmark
 [ /Page 33 /Title (I. Commands) /View [/XYZ null null 0] /OUT pdfmark
 [ /Page 151 /Title (II. System calls) /View [/XYZ null null 0] /OUT pdfmark
 [ /Page 196 /Title (III. Subroutines) /View [/XYZ null null 0] /OUT pdfmark
