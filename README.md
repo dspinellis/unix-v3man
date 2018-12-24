@@ -1,4 +1,7 @@
 # The Third Research Edition Unix Programmer's Manual
+
+[![DOI](https://zenodo.org/badge/111328229.svg)](https://zenodo.org/badge/latestdoi/111328229)
+
 This repository maintains the tools for formatting and
 making available the *Unix Programmer's Manual*
 (Third Edition, February 1973).
